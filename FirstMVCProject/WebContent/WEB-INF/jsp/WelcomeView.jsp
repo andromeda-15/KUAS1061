@@ -8,7 +8,7 @@
 </head>
 <body>
 
-   歡迎  ${member}
+   歡迎  ${member} !!
 
 </body>
 </html>
